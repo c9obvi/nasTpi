@@ -25,3 +25,9 @@ sudo apt update
 ``` 
 sudo apt install plexmediaserver
 ```
+
+Next you can open a browswer of your choice and navigate to your server's IP Address 
+```
+192.***.**.*:32400/web
+```
+Here you will login to your plexmedia account and continue with GUI setup
