@@ -22,4 +22,6 @@ echo deb https://downloads.plex.tv/repo/deb public main | sudo tee /etc/apt/sour
 sudo apt update
 ```
 
-``` sudo apt install plexmediaserver```
+``` 
+sudo apt install plexmediaserver
+```
