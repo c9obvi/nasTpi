@@ -31,3 +31,13 @@ Next you can open a browswer of your choice and navigate to your server's IP Add
 192.***.**.*:32400/web
 ```
 Here you will login to your plexmedia account and continue with GUI setup
+
+
+
+
+## adding NFS file sharing to MacOS
+open a terminal and:
+```
+nfs://192.168.1.100/export/myshare
+
+```
