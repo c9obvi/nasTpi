@@ -10,3 +10,13 @@ https://github.com/OpenMediaVault-Plugin-Developers/installScript
 ```bash
 sudo wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 ```
+
+```
+curl https://downloads.plex.tv/plex-keys/PlexSign.key | sudo apt-key add -
+```
+
+```echo deb https://downloads.plex.tv/repo/deb public main | sudo tee /etc/apt/sources.list.d/plexmediaserver.list```
+
+``` sudo apt update ```
+
+``` sudo apt install plexmediaserver```
