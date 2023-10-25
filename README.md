@@ -11,6 +11,7 @@ https://github.com/OpenMediaVault-Plugin-Developers/installScript
 sudo wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 ```
 
+### Plex Media 
 ```bash
 curl https://downloads.plex.tv/plex-keys/PlexSign.key | sudo apt-key add -
 ```
