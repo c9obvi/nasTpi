@@ -5,13 +5,13 @@ basic Raspberry Pi Nas using OpenMediaVaut and Plex
 basically just a space for me to reprocude these projects quickly according to my note taking prefrence
 
 ## Resources used:
-### Operating System
+## Operating System
 https://www.raspberrypi.com/software/ at the time of this note, OpenMediaVault supports only up until bullseye
-### Media Storage
+## Media Storage
 https://github.com/OpenMediaVault-Plugin-Developers/installScript
-### Plex Media Server for Netlfix-like experience
+## Plex Media Server for Netlfix-like experience
 
-### NetworkChuk YouTube Walkthrough
+## NetworkChuk YouTube Walkthrough
 https://youtu.be/gyMpI8csWis?si=8VfytvgTnKCO7XLZ
 ```bash
 sudo wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
