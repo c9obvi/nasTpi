@@ -11,7 +11,7 @@ https://www.raspberrypi.com/software/ at the time of this note, OpenMediaVault s
 <ul>https://github.com/OpenMediaVault-Plugin-Developers/installScript</ul>
 
 ## Plex Media Server for Netlfix-like experience <br>
->[!IMPORTANT] When using Samsung SSD's such as T7 -- they must be muonted and wiped, and remounted as EXT4. Then NSF will work. 
+>:IMPORTANT: When using Samsung SSD's such as T7 -- they must be muonted and wiped, and remounted as EXT4. Then NSF will work. 
 
 ## NetworkChuk YouTube Walkthrough
 https://youtu.be/gyMpI8csWis?si=8VfytvgTnKCO7XLZ
