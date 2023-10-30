@@ -10,6 +10,7 @@ https://www.raspberrypi.com/software/ at the time of this note, OpenMediaVault s
 ## Media Storage
 <ul>https://github.com/OpenMediaVault-Plugin-Developers/installScript</ul>
 ## Plex Media Server for Netlfix-like experience
+!!! When using Samsung SSD's such as T7 -- they must be muonted and wiped, and remounted as EXT4. Then NSF will work. 
 
 ## NetworkChuk YouTube Walkthrough
 https://youtu.be/gyMpI8csWis?si=8VfytvgTnKCO7XLZ
@@ -45,6 +46,6 @@ Here you will login to your plexmedia account and continue with GUI setup
 ## adding NFS file sharing to MacOS
 open a terminal and:
 ```
-nfs://192.168.1.100/export/myshare
+nfs://192.168.**.**/export/myshare
 
 ```
