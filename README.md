@@ -1,8 +1,8 @@
 # nasTpi
-basic Raspberry Pi Nas using OpenMediaVaut and Plex
+basic Raspberry Pi NAS using OpenMediaVaut and Plex
 
 ### Description
-basically just a space for me to reprocude these projects quickly according to my note taking prefrence
+Just a space for me to reprocude this project quickly according to my note taking prefrence
 
 ## Resources used:
 ## Operating System
